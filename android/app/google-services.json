@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861416458459",
+    "project_id": "heartratemonitorproject-9355d",
+    "storage_bucket": "heartratemonitorproject-9355d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861416458459:android:8107ba41396ecd048324fe",
+        "android_client_info": {
+          "package_name": "com.example.heartratemonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7n1q3nMzL4PIpTPy_s_iPhDwYKA4LQW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
